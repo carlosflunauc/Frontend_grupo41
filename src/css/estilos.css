@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: #35518d;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  input{
+      border: 5px double #b80505;
+      text-align: center;
+      color: #092170;
+  }
